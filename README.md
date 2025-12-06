@@ -1,4 +1,11 @@
-# React IP Lookup App
+# [React IP lookup App](https://first-react-api-usage-project-g218.vercel.app/)
+
+Hello! In this project of mine, I have built this web to continue learning and understanding JavaScript, CSS & HTML. It has two parts:
+
+1) A **Matrix-style** green animation drawn on an HTML5 `<canvas>`.  
+2) A **Hash Generator** that converts user input into MD5 / SHA-1 / SHA-256 / SHA-512 hex.
+
+No server or backend — just a browser-only project.
 This is my first personal project of working with react framework, I keep it as simple as i can get to help me learn it and to use an external API source to also make me understands how data is used and proccess
 
 <h3>💡 What it is: </h3>
